@@ -1,0 +1,21 @@
+				'Requests' Library
+⦁	This is a comprehensive guide on how to get the 'requests' library in python.
+⦁	This library is essential for most programs.
+----------------------------------------------------------------------------------------------------
+
+				Prerequisites
+⦁	Python:
+		- To install 'requests' first you need to install python.
+		- The official release of python can be found at python.org
+⦁	PIP with python:
+		- Make sure to tick PIP when installing python [Common Error]
+
+------------------------------------------------------------------------------------------------------
+					Installing 'Requests'
+
+
+⦁	 If not installed install PowerShell from https://aka.ms/PSWindows
+⦁	RUN:
+				pip install requests
+
+--------------------------------------------------------------------------------------------------------
