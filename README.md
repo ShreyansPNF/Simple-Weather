@@ -1,6 +1,6 @@
 # Simple-Weather
 Just a simple python program to display the weather of your choice along with other information
-
+**Note: The program will not run without the 'requests' library!! **
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This program is capable of the following:
 -Humidity
